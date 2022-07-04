@@ -124,12 +124,20 @@ body {
   font-size: 16.5px !important;
 }
 .bg {
-  background-color: wheat !important;
+  background-color: white !important;
+}
+
+.nav-link {
+  margin-left: 30px;
+  font-family: DM Sans, sans-serif !important;
+  color: #0c1825 !important;
+  line-height: 27.2px !important;
+  font-size: 16.5px !important;
+  font-weight: 500 !important;
 }
 
 .btns {
   margin-left: 5px;
-  margin-right: 20px;
   -webkit-margin-collapse: collapse;
   border: none !important;
   font-size: 16.5px !important;
@@ -143,6 +151,7 @@ body {
 .btn1 {
   background-color: #0c1825 !important;
   color: white !important;
+  margin-right: 50px;
 }
 
 .btn2 {
@@ -175,5 +184,15 @@ body {
 
   .nav-item {
     text-align: center !important;
+  }
+  .nav-link {
+    margin-left: 0;
+    margin-top: 15px;
+  }
+  .save {
+    margin-top: 70px;
+  }
+  .btn1 {
+    margin-right: 0;
   }
 }
