@@ -1,4 +1,4 @@
-body {
+/* body {
   padding: 0;
   margin: 0;
 }
@@ -68,7 +68,7 @@ nav .icon-burger .line {
   nav .logo {
     float: none;
     width: auto;
-    /* justify-content: center; */
+    /* justify-content: center; 
   }
   nav .links {
     float: none;
@@ -115,4 +115,8 @@ nav .icon-burger .line {
   color: #000;
   text-decoration: none;
   font-size: 12px;
+} */
+
+.bg {
+  background-color: red !important;
 }
