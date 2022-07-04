@@ -128,10 +128,6 @@ body {
   background-color: white !important;
 }
 
-header {
-  /* padding: 80px 16px 50px !important; */
-}
-
 .nav-link {
   margin-left: 30px;
   font-family: DM Sans, sans-serif !important;
@@ -247,5 +243,9 @@ footer .nav-links {
   .texts {
     text-align: start !important;
     transform: translateX(22px);
+  }
+  .text-centers {
+    text-align: center !important;
+    transform: translateX(20px) !important;
   }
 }
