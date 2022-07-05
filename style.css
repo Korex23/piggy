@@ -122,7 +122,7 @@ body {
   color: #353535;
   /* line-height: 27.2px; */
   font-size: 18.5px;
-  overflow-x: hidden;
+  overflow-x: hidden !important;
 }
 h1 {
   font-size: 65px !important;
